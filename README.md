@@ -1,18 +1,15 @@
 <h1>GitHub Profile Finder</h1>
-<hr/>
-<p></p>GitHub Profile Finder is a web application that allows you to search for GitHub users and view their profile details. The application is built using HTML, CSS, and JavaScript, and it utilizes the GitHub API to fetch user data and present it at the front-end.
+<p>GitHub Profile Finder is a web application that allows you to search for GitHub users and view their profile details. The application is built using HTML, CSS, and JavaScript, and it utilizes the GitHub API to fetch user data and present it at the front-end.
 </p>
 <h3>Features</h3>
-<quote>
-- Search for GitHub users by their username.
-- View the user's profile information, including their avatar, name, bio, location, and public repositories.
-- Click on a repository to see more details like the repository name, description, and the number of stars.
-  </quote>
+<code>
+- Search for GitHub users by their username.<br/>
+- View the user's profile information, including their avatar, name, bio, location, and public repositories.<br/>
+- Click on a repository to see more details like the repository name, description, and the number of stars.<br/>
+  </code>
 Live: https://test-your-github.netlify.app/
-<hr/>
 
-
-Getting Started
+<h1>Getting Started</h1>
 To run the project locally, follow these steps:
 
 - Clone the repository to your local machine:
