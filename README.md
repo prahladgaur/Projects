@@ -7,7 +7,7 @@
 - View the user's profile information, including their avatar, name, bio, location, and public repositories.
 - Click on a repository to see more details like the repository name, description, and the number of stars.
 </pre>
-Live: https://test-your-github.netlify.app/
+Live: https://test-github-profile.netlify.app/
 <h1>Getting Started</h1>
 To run the project locally, follow these steps:
 <pre>
