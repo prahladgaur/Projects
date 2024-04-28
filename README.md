@@ -5,26 +5,26 @@
 <pre>
 - Search for GitHub users by their username.<br/>
 - View the user's profile information, including their avatar, name, bio, location, and public repositories.<br/>
-- Click on a repository to see more details like the repository name, description, and the number of stars.<br/>
+- Click on a repository to see more details like the repository name, description, and the number of stars.
   </pre>
 Live: https://test-your-github.netlify.app/
-
 <h1>Getting Started</h1>
 To run the project locally, follow these steps:
-
+<pre>
 - Clone the repository to your local machine:
-bash
+bash<br/>
 git clone https://github.com/your-username/github-profile-finder.git
 
 - Navigate to the project directory:
-bash
+bash<br/>
 cd github-profile-finder
 
 - Open index.html in your preferred web browser.
-Usage
-- Enter the GitHub username you want to search for in the search bar.
-- Click the "Search" button or press "Enter" to fetch the user's profile data.
+Usage<br/>
+- Enter the GitHub username you want to search for in the search bar.<br/>
+- Click the "Search" button or press "Enter" to fetch the user's profile data.<br/>
 - The user's profile information will be displayed below the search bar.
+- </pre>
 Technologies Used
 - HTML
 - CSS
