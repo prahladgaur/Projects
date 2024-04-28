@@ -6,19 +6,19 @@
 - Search for GitHub users by their username.
 - View the user's profile information, including their avatar, name, bio, location, and public repositories.
 - Click on a repository to see more details like the repository name, description, and the number of stars.
-  </pre>
+</pre>
 Live: https://test-your-github.netlify.app/
 <h1>Getting Started</h1>
 To run the project locally, follow these steps:
 <pre>
 - Clone the repository to your local machine:
-bash
+</pre>  
+<h2>bash</h2>
 git clone https://github.com/your-username/github-profile-finder.git
 <pre>
 - Navigate to the project directory:
-  </pre>
+</pre>
 <h2>bash</h2>
-
 cd github-profile-finder
 <pre>
 - Open index.html in your preferred web browser.
@@ -35,8 +35,8 @@ cd github-profile-finder
 - CSS
 - JavaScript
 - GitHub API
-  </pre>
-API Usage
+</pre>
+<h2>API Usage</h2>
 GitHub API is used to fetch user data from GitHub. The API endpoints used in this project include:
 <pre>
 - User Info: https://api.github.com/users/:username
@@ -46,4 +46,4 @@ GitHub API is used to fetch user data from GitHub. The API endpoints used in thi
 - Commit your changes: git commit -m 'Add some feature'.
 - Push to the branch: git push origin feature/your-feature-name.
 - Submit a pull request.
-  </pre>
+</pre>
