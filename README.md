@@ -3,7 +3,7 @@
 </p>
 <h3>Features</h3>
 <pre>
-- Search for GitHub users by their username.<br/>
+- Search for GitHub users by their username.
 - View the user's profile information, including their avatar, name, bio, location, and public repositories.<br/>
 - Click on a repository to see more details like the repository name, description, and the number of stars.
   </pre>
